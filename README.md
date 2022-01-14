@@ -1,5 +1,5 @@
 # Data: Sustainability in a global circular economy: Insights on consumer price sensitivity
-Hanumante, N., Shastri, Y. & Hoadley, A. (2020.) Sustainability in a global circular economy: Insights on consumer price sensitivity. Journal of Industrial
+Hanumante, N., Shastri, Y. & Hoadley, A. (2022.) Sustainability in a global circular economy: Insights on consumer price sensitivity. Journal of Industrial
 Ecology.
 
 This repository contains data for the figures 3, 5 and 6 presented in the paper titled above.
