@@ -12,3 +12,7 @@ Each file contains 7 columns for P1,	P2,	wages,	Circulation Fraction,	X,	TI inve
 ## Figure 5
 There are 8 tab sepaarated values formatted files. The consumption level and collapse mode are included the file title.
 Each file contains two columns, first column represents Minimum Discount and second column shows the Maximum Premium.
+
+## Figure 6
+There are 2 tab sepaarated values formatted files. The consumption level and the CCEP pattern values are included the file title.
+Each file contains 3 columns for P1,	P2, and	wages.
