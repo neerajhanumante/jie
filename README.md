@@ -2,7 +2,7 @@
 
 2021 Journal of Industrial Ecology – www.wileyonlinelibrary.com/journal/jie
 
-Hanumante, N., Shastri, Y. & Hoadley, A. (2022.) Sustainability in a global circular economy: Insights on consumer price sensitivity. Journal of Industrial
+Hanumante, N., Shastri, Y. & Hoadley, A. (2021.) Sustainability in a global circular economy: Insights on consumer price sensitivity. Journal of Industrial
 Ecology.
 
 This repository contains data for figures 3, 5, and 6 presented in the paper titled above.
