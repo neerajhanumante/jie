@@ -1,21 +1,42 @@
-# Data: Sustainability in a global circular economy: Insights on consumer price sensitivity
+# Sustainability in a global circular economy: Insights on consumer price sensitivity
+
+---
 
 2021 Journal of Industrial Ecology – www.wileyonlinelibrary.com/journal/jie
 
 Hanumante, N., Shastri, Y. & Hoadley, A. (2021.) Sustainability in a global circular economy: Insights on consumer price sensitivity. Journal of Industrial
 Ecology.
 
+---
+
+## Data files
+
 This repository contains data for figures 3, 5, and 6 presented in the paper titled above.
 
-## Figure 3
+### Figure 3
 There are 3 tab-separated values formatted files. The consumption level, collapse mode, and the CCEP pattern values are included in the file title.
 Each file contains 7 columns for P1,	P2,	wages,	Circulation Fraction,	X,	TI inventory,	and Delta C.
 
 
-## Figure 5
+### Figure 5
 There are 8 tab-separated values formatted files. The consumption level and collapse mode are included in the file title.
 Each file contains two columns, the first column represents Minimum Discount, and the second column shows the Maximum Premium.
 
-## Figure 6
+### Figure 6
 There are 2 tab-separated values formatted files. The consumption level and the CCEP pattern values are included in the file title.
 Each file contains 3 columns for P1,	P2, and	wages.
+
+
+---
+
+## Model files
+This repository contains model files used to generate outcomes shown above. These are enlisted below:
+ - a_main_model.py
+ - b_aux_functions.py
+ - c_initialization_and_series.py
+ - d_series_and_variables.py
+ - initial.csv
+ - parameters.csv
+
+To create the outputs, run 'a_main_model.py' using appropriate configuration at lines 85-105. 
+The output would be stored in the same working directory in a newly created directory for that particular scenario.
