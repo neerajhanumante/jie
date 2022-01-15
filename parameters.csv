@@ -1,0 +1,142 @@
+Parameter_name,Parameter_value
+A_m,0.133
+ES,800.0
+H1_target,0.4
+ISHH_price_t,1e-08
+IS_target,0.0
+P1_target,0.0
+T,52.0
+
+a_pcb,0.000271386
+a_price_EE,0.4968
+a_price_H1,1.4359
+a_price_IS,1.17
+a_price_P1,0.4968
+a_prod_H1,0.24182
+a_prod_IS,0.3109
+a_prod_P1,0.050392
+a_wage,0.43853
+
+b_pcb,0.00010454
+b_price_EE,0.67631
+b_price_H1,0.001
+b_price_IS,0.297210307016
+b_price_P1,0.67631
+b_prod_H1,0.049912497419
+b_prod_IS,0.0044
+b_prod_P1,0.149737492257
+
+c_price_EE,123.18
+c_price_H1,0.252716512846
+c_price_IS,0.001
+c_price_P1,0.12318
+c_prod_H1,0.26657
+c_prod_IS,0.3313
+c_prod_P1,0.033805381112
+c_wage,0.135718103739
+
+d_EE,4e-08
+d_H1,6e-08
+d_IS,6e-08
+d_P1,4e-08
+d_P1H1,0.00019107702916
+d_price_IS,1e+14 # line 172-4
+d_IS_p,1e+06 # line 172-4
+d_prod_IS,1000000.0
+d_wage,4.50735433e-06
+
+e_P1H1,0.049912497419
+f_P1H1,0.81332
+
+g_H1C1,0.19963 # --- this value has been updated in Matlab code near line 177
+g_H2C1,0.366996265548
+g_H2C2,0.0525091025508
+g_H3C2,0.117534846351
+
+g_P1H1,2.9657
+g_P1H2,0.079785 # --- this value has been updated in Matlab code near line 177
+g_P2H2,0.0586870356901 # --- this value has been updated in Matlab code near line 230
+g_P2H3,0.0168
+g_P3H3,0.125249403207
+g_RPP1,0.0041  # 0.00354131479342
+
+r_IRPP2,0.0043 # default 0.0214727813887150 Modification, scaling up 5 times = 0.00432662507709 * 5 lines 283  # 0.00043 new value
+r_IRPP3,0.36 # default 0.3573 for both these parameters computation is included in the main code  # default 0.36
+g_RPP2,0.0114  # default 0.0114  # new default 0.0228
+g_RPP3,0.0023  # default 0.0023  # new default 0.0046
+
+gamma_EEIS,0.1  # default 1.0  # new default 0.1
+gamma_EM,1.0
+k_EE,1.6e-07
+k_H1,6e-08
+k_IS,6e-08
+k_P1,1.6e-07
+k_hat,0.09
+
+l_EE,6e-08
+l_H1,6e-08
+l_IS,4e-08
+l_P1,6e-08
+
+m_C1,0.0921055742089
+m_C2,0.171458885992
+m_H1,0.00983886246766
+m_H2,0.0004
+m_H3,0.196123662845
+m_HH,0.00019230769231 #This is weekly mortality rate of humans
+m_IRPRP,0  # default 0
+m_P1,0.00101829545617
+m_P2,0.197313145956
+m_P3,0.186325524103
+
+msv,0.0
+n_EE,0.0
+n_H1,0.0
+n_IS,2e-08
+n_P1,0.0
+o_EE,1.6e-07
+o_H1,6e-08
+o_IS,6e-08
+o_P1,1.6e-07
+
+# pcm_I,4.507354331e-05 # This has been computed in the main code
+phi,10  # default 10.0
+RPIRP,0.493375050247774  # default 0.493375050247774
+th_re,0.0001 # threshold reproduction value, in Matlab code it is defined as below reproduction
+theta_P1,0.101991961135  # default 0.101991961135
+lambda_RP,0.676677233002  # default 0.676677233002 for aluminium 1
+
+z_EE,6e-08
+z_H1,3.13e-05
+z_IS,5.684e-05
+z_P1,6e-08
+d_P1IS,1.908e-04
+e_P1IS,0.0499
+f_P1IS,0.4241
+g_P1IS,0.1287
+
+d_P1HH,4e-08
+z_P1HH,6e-08
+k_P1HH,1.6e-07
+m_P1HH,6e-08
+n_P1HH,0
+
+d_ISHH,6e-08
+z_ISHH,5.684e-05
+k_ISHH,6e-08
+m_ISHH,4e-08
+n_ISHH,2e-08
+
+d_H1HH,6e-08
+z_H1HH,3.1300e-05
+k_H1HH,6e-08
+m_H1HH,6e-08
+n_H1HH,0
+
+P1_bar,0
+H1_bar,0.4
+TI_bar,0  # default 0
+eta_a,2.7139e-04 # Modification line 218
+eta_b,1.0454e-04 # Modification line 219
+eta_c,0.0167
+p_ISHH,1e-08 # line 172-4 
