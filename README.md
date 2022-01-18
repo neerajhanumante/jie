@@ -26,17 +26,3 @@ Each file contains two columns, the first column represents Minimum Discount, an
 There are 2 tab-separated values formatted files. The consumption level and the CCEP pattern values are included in the file title.
 Each file contains 3 columns for P1,	P2, and	wages.
 
-
----
-
-## Model files
-This repository contains model files used to generate outcomes shown above. These are enlisted below:
- - a_main_model.py
- - b_aux_functions.py
- - c_initialization_and_series.py
- - d_series_and_variables.py
- - initial.csv
- - parameters.csv
-
-To create the outputs, run 'a_main_model.py' using appropriate configuration at lines 85-105. 
-The output would be stored in the same working directory in a newly created directory for that particular scenario.
