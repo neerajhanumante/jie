@@ -2,9 +2,9 @@
 
 ---
 
-Hanumante, N., Shastri, Y. & Hoadley, A. (2022), Sustainability in a global circular economy: Insights on consumer price sensitivity. Journal of Industrial Ecology.
+Hanumante NC, Shastri Y, Hoadley A. Sustainability in a global circular economy: Insights on consumer price
+sensitivity. J Ind Ecol. 2022;1–14. https://doi.org/10.1111/jiec.13253
 
-https://doi.org/10.1111/jiec.13253
 ---
 
 ## Data files
